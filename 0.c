@@ -10,5 +10,6 @@ int main(){
         printf("The number you print is positive!\n");
     }
     printf("Hello, Linux!\n");
+    printf("Obstacle detected! Turning right when ...\n");
     return 0;
 }
